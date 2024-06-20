@@ -5,6 +5,9 @@ body {
     font-family: sans-serif;
 }
 
-table {
+table, td, th{
     margin: 0 auto;
+    padding: 10px;
+    border: 1px solid;
+    border-collapse: collapse;
 }
